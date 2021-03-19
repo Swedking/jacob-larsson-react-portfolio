@@ -13,23 +13,10 @@ export default function() {
         }}
       />
       <div className="right-column">
-        Maecenas faucibus mollis interdum. Integer posuere erat a ante venenatis
-        dapibus posuere velit aliquet. Sed posuere consectetur est at lobortis.
-        Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-        Aenean lacinia bibendum nulla sed consectetur. Maecenas sed diam eget
-        risus varius blandit sit amet non magna. Morbi leo risus, porta ac
-        consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida
-        at eget metus. Donec sed odio dui. Cras mattis consectetur purus sit
-        amet fermentum. Etiam porta sem malesuada magna mollis euismod. Nulla
-        vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque
-        ornare sem lacinia quam venenatis vestibulum. Duis mollis, est non
-        commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec
-        elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur
-        et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
-        commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis
-        risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac
-        consectetur ac, vestibulum at eros. Vestibulum id ligula porta felis
-        euismod semper.
+      Jacob Larsson is a software web developer, with extensive background in PC hardware and software repair. His background in software, hardware, and website development create his experienced and outward thinking approach to projects.  Jacob is fueled by his passion for computers and a desire to continually learn and create new things. He considers himself a ‘forever student,’ eager to both build on his academic foundations in software development and stay in tune with the latest computer software and hardware strategies through continued coursework.
+His hunger for knowledge and determination to turn information into action has contributed to his most recent success at Bottega Technical College, where he worked towards learning the latest in technology and grew his skills to become a professional web developer in one of today's fastest growing fields.  
+Jacob believes mindfulness in the workplace is key to success - a tenet he  lives out through his interests in music, weight training, and family. Jacob is currently working as a part of a professional technician team and is always interested in a challenge. Reach out to jacoblarslarsson@gmail.com to connect!
+
       </div>
     </div>
   );
